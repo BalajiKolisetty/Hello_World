@@ -7,3 +7,5 @@ What's your name?
 So where are you from?
 How do you do?
 This is my first repo
+
+Today is Thursday
