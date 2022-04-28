@@ -13,3 +13,4 @@ This is my first repo
 
 Today is Thursday
 
+Sun rises in the east
