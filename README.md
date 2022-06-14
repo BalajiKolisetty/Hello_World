@@ -14,3 +14,5 @@ This is my first repo
 Today is Thursday
 
 Sun rises in the east
+
+Only thing I love is Coding and Cricket
